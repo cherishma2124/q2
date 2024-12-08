@@ -1,6 +1,5 @@
-public class first{
+
+    public class first{
     public static void main(String[] args) {
-        System.out.println("Hello worlddd cherishma");
-        
-    }
+      System.out.println("cherishma");
 }
